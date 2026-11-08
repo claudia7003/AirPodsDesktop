@@ -58,4 +58,3 @@ Then after the bug occurred, insert the contents of "AirPodsDesktop.log" here.
 Insert the contents of "StackTrace.log" here, if any.
 ```
 </details>
-
